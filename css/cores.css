@@ -1,0 +1,23 @@
+:root{
+  --cor-branco: #fff;
+  --cor-preto: #000;
+  --cor-azul: #ABC6D6;
+  --cor-rosa: #F2CEC6;
+  --cor-verde: #58D7C4;
+}
+
+.cor-branco{
+  color: var(--cor-branco);
+}
+.cor-preto{
+  color: var(--cor-preto);
+}
+.cor-azul{
+  color: var(--cor-azul);
+}
+.cor-rosa{
+  color: var(--cor-rosa);
+}
+.cor-verde{
+  color: var(--cor-verde);
+}
